@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Plataform
+  - StoreEntry
+  - Exit
+  - Coin
+  - ChestRoom
+  - Chest
+  - ElevatorRoom
+  - Elevator
+  - Portal
+  - PortalRoom
+  - Bat
+  - BatDamague
+  - MagicRoom
+  - Mage
+  - MineEntry
+  - Bomb
+  - Fire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PostProces
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Efect
+    uniqueID: 3938633293
+    locked: 0
+  - name: Bg
+    uniqueID: 2354338317
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
