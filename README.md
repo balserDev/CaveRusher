@@ -6,4 +6,4 @@ An arcade mobile game developed on Unity and currently available on Itch.io
 
 
 # Watch The Trailer
-[I'm an inline-style link](https://www.youtube.com/watch?v=-Zbdj3WElZM&t=1s)
+[Cave Rusher Trailer](https://www.youtube.com/watch?v=-Zbdj3WElZM&t=1s)
